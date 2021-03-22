@@ -1,5 +1,6 @@
 # Creating architecture in AWS using AWS CLI for webserver with CloudFront (CDN)
-## The goal of the project:
+### Note: You can use my code freely wherever you want without credit, I won't mind😉
+## The goal of the project:
 Create High Availability Architecture with AWS CLI
 The architecture includes- 
 #### ⭕ Webserver configured on EC2 Instance
